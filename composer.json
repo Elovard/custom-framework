@@ -13,6 +13,9 @@
             "Elovard\\Framework\\": "framework"
         }
     },
+    "require": {
+        "php": "^8.2"
+    },
     "require-dev": {
         "symfony/var-dumper": "^6.3",
         "laravel/pint": "^1.13"
